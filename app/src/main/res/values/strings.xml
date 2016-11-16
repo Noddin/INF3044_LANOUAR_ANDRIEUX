@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Empty Projet</string>
+    <string name="HelloWorld">HelloWorld!!</string>
+    <string name="Button">New_Button</string>
+    <string name="sentence">Fire missiles ?</string>
+    <string name="toast"> Je suis un toast !</string>
+    <string name="toast2"> YOLOOOOOOOOOO!</string>
+</resources>
